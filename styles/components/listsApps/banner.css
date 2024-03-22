@@ -1,0 +1,7 @@
+.bannerContainer {
+    height: 250px;
+    border-radius: 9px;
+    background-color: aquamarine;
+    cursor: pointer;
+
+}

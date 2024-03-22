@@ -1,0 +1,51 @@
+.cardContainer {
+    width: 33.3%;
+    border-radius: 9px;
+    cursor: pointer;
+}
+
+.cardSection {
+    display: flex;
+    flex-direction: column;
+    gap: 15px
+}
+
+.cardImage {
+    height: 200px;
+    background-color: rgb(82, 182, 48);
+    border-radius: 9px;
+
+}
+
+.gameDescriptionContainer {
+    display: flex;
+    gap: 15px;
+}
+
+
+.gameIconContainer {
+    border-radius: 9px;
+    width: 65px;
+    height: 65px;
+    background-color: blueviolet;
+}
+
+.gameDescriptionSection {
+    display: flex;
+    flex-direction: column;
+}
+
+.titleApp {
+    font-size: 18px;
+}
+
+.categoryApp {
+    color: rgb(84, 84, 87);
+    font-size: 14px;
+}
+
+.ratingAApp {
+    color: rgb(84, 84, 87);
+    font-size: 14px;
+
+}
