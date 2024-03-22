@@ -4,11 +4,9 @@ import Template from "./components/template"
 function App() {
 
   return (
-    <>
-      <Template>
-        <ListApps />
-      </Template>
-    </>
+    <Template>
+      <ListApps />
+    </Template>
   )
 }
 
