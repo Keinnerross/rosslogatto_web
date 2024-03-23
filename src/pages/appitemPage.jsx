@@ -19,3 +19,5 @@ const AppItemPage = () => {
         </div>
     )
 }
+
+export default AppItemPage;
